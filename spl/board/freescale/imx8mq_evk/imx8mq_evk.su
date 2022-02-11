@@ -1,0 +1,12 @@
+tcpc.h:455:5:tcpc_setup_ufp_mode	0	static
+tcpc.h:459:5:tcpc_setup_dfp_mode	0	static
+tcpc.h:464:5:tcpc_disable_src_vbus	0	static
+imx8mq_evk.c:46:5:board_early_init_f	16	static
+imx8mq_evk.c:59:5:board_qspi_init	16	static
+imx8mq_evk.c:67:5:dram_init	0	static
+imx8mq_evk.c:154:5:board_phy_config	32	static
+imx8mq_evk.c:196:5:usb_gadget_handle_interrupts	16	static
+imx8mq_evk.c:270:5:board_usb_init	32	static
+imx8mq_evk.c:291:5:board_usb_cleanup	32	static
+imx8mq_evk.c:308:5:board_init	16	static
+imx8mq_evk.c:329:5:board_late_init	16	static

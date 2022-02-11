@@ -1,0 +1,2 @@
+ddr_init.c:14:6:ddr_cfg_umctl2	0	static
+ddr_init.c:24:6:ddr_init	48	static

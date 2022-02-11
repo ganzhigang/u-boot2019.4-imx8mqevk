@@ -1,0 +1,2 @@
+xhci-imx8m.c:151:12:xhci_imx8m_remove	32	static
+xhci-imx8m.c:115:12:xhci_imx8m_probe	64	static

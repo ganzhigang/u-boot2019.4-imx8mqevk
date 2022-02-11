@@ -1,0 +1,13 @@
+regulator.c:431:12:do_regulator	48	static
+regulator.c:18:12:failure	16	static
+regulator.c:85:12:do_list	48	static
+regulator.c:25:12:do_dev	32	static
+regulator.c:111:12:constraint	32	static
+regulator.c:57:12:curr_dev_and_platdata	48	static
+regulator.c:400:12:do_disable	48	static
+regulator.c:381:12:do_enable	48	static
+regulator.c:346:12:do_mode	64	static
+regulator.c:307:12:do_current	64	static
+regulator.c:258:12:do_value	64	static
+regulator.c:140:12:do_info	144	static
+regulator.c:234:12:do_status	96	static

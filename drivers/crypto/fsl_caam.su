@@ -1,0 +1,7 @@
+fsl_caam.c:338:12:do_job	32	static
+fsl_caam.c:765:12:jr_reset	16	static
+fsl_caam.c:122:5:secmem_set_cmd_1	0	static
+fsl_caam.c:143:5:caam_decap_blob	48	static
+fsl_caam.c:182:5:caam_gen_blob	64	static
+fsl_caam.c:217:5:caam_hwrng	48	static
+fsl_caam.c:255:6:caam_open	112	static

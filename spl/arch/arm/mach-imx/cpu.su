@@ -1,0 +1,7 @@
+cpu.c:40:5:get_imx_reset_cause	0	static
+cpu.c:320:5:cpu_eth_init	0	static
+cpu.c:336:5:cpu_mmc_init	0	static
+cpu.c:356:6:arch_preboot_os	0	static
+cpu.c:447:5:get_cpu_speed_grade_hz	32	static
+cpu.c:490:5:get_cpu_temp_grade	0	static
+cpu.c:522:18:get_boot_device	16	static

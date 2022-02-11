@@ -1,0 +1,1 @@
+cmd_spl/board/freescale/imx8mq_evk/built-in.o :=  aarch64-poky-linux-ld.bfd     -r -o spl/board/freescale/imx8mq_evk/built-in.o spl/board/freescale/imx8mq_evk/imx8mq_evk.o spl/board/freescale/imx8mq_evk/spl.o spl/board/freescale/imx8mq_evk/lpddr4_timing.o spl/board/freescale/imx8mq_evk/lpddr4_timing_b0.o 

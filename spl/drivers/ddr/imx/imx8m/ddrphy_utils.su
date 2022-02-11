@@ -1,0 +1,5 @@
+ddrphy_utils.c:87:6:wait_ddrphy_training_complete	0	static
+ddrphy_utils.c:106:6:ddrphy_init_set_dfi_clk	16	static
+ddrphy_utils.c:144:6:ddrphy_init_read_msg_block	0	static
+ddrphy_utils.c:148:6:lpddr4_mr_write	0	static
+ddrphy_utils.c:170:14:lpddr4_mr_read	0	static

@@ -1,0 +1,5 @@
+nxp_tmu.c:334:12:nxp_tmu_ofdata_to_platdata	144	static
+nxp_tmu.c:303:12:nxp_tmu_bind	48	static
+nxp_tmu.c:138:5:nxp_tmu_get_temp	64	static
+nxp_tmu.c:214:13:nxp_tmu_arch_init	0	static
+nxp_tmu.c:287:12:nxp_tmu_probe	80	static

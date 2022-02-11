@@ -1,0 +1,7 @@
+serial_mxc.c:199:12:mxc_serial_getc	0	static
+serial_mxc.c:206:13:mxc_serial_putc	32	static
+serial_mxc.c:223:12:mxc_serial_tstc	0	static
+serial_mxc.c:189:13:mxc_serial_setbrg	16	static
+serial_mxc.c:247:12:mxc_serial_init	16	static
+serial_mxc.c:267:6:mxc_serial_initialize	0	static
+serial_mxc.c:272:30:default_serial_console	0	static

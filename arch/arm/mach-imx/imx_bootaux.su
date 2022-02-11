@@ -1,0 +1,3 @@
+imx_bootaux.c:14:5:arch_auxiliary_core_up	16	static
+imx_bootaux.c:39:5:arch_auxiliary_core_check_up	16	static
+imx_bootaux.c:68:12:do_bootaux	32	static

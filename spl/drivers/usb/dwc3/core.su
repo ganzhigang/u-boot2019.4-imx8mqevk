@@ -1,0 +1,7 @@
+core.c:213:13:dwc3_event_buffers_cleanup	0	static
+core.c:135:13:dwc3_free_event_buffers	32	static
+core.c:294:13:dwc3_free_scratch_buffers	0	static
+core.c:399:6:dwc3_set_suspend_clk	0	static
+core.c:638:5:dwc3_uboot_init	64	static
+core.c:772:6:dwc3_uboot_exit	32	static
+core.c:798:6:dwc3_uboot_handle_interrupt	0	static

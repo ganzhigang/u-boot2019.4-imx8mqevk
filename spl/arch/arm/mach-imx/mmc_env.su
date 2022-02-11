@@ -1,0 +1,2 @@
+mmc_env.c:12:12:board_mmc_get_env_dev	0	static
+mmc_env.c:17:5:mmc_get_env_dev	16	static
